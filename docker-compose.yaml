@@ -15,3 +15,5 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: secretRootPassword
     
+
+    
